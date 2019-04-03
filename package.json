@@ -1,0 +1,34 @@
+{
+  "name": "doggieapp-backend",
+  "version": "1.0.0",
+  "description": "Doggie application is a platform for a user to advertise, manage, contact a pet instructor and also purchase pet of choice. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teejayblaze/DoggieApp.git"
+  },
+  "keywords": [
+    "Sell",
+    "Pets",
+    "Buy",
+    "Pets",
+    "Train",
+    "Pets"
+  ],
+  "author": "Awobajo Adetunji",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teejayblaze/DoggieApp/issues"
+  },
+  "homepage": "https://github.com/Teejayblaze/DoggieApp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "mongoose": "^5.4.20",
+    "socket.io": "^2.2.0"
+  }
+}
